@@ -6,7 +6,6 @@ A verification-first buyer’s guide to monitoring brands across China’s AI an
 
 *Meta description: Compare AI visibility tools for China by engine coverage, evidence quality, source tracing, cross-market reporting and execution support.*
 
-*Suggested slug: /blog/best-ai-visibility-tools-china*
 
 ## The short answer
 
